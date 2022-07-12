@@ -1,1 +1,1 @@
-# Mined-Hackathon
+# Shopping website
